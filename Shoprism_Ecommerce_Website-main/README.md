@@ -2,7 +2,7 @@
 
 ## Repository for my Shoprism_Ecommerce_Website project
 
-Find out how to build a complete e-commerce platform. Author Divya Reddy tackles CRUD functions and connects the system to a database of MongoDB (Document database). Created a full-stack platform using JavaScript. The frontend was created using React and the backend was created using NodeJS, Express, MongoDB. Then I used Axios and Redux to link my backend with my frontend. I also used Postman to test my end points. 
+Find out how to build a complete e-commerce platform. I have used CRUD functions and connects the system to a database of MongoDB (Document database). Created a full-stack platform using JavaScript. The frontend was created using React and the backend was created using NodeJS, Express, MongoDB. Then I used Axios and Redux to link my backend with my frontend. I also used Postman to test my end points. 
 
 1. Methodologies/Project Management:
 
