@@ -38,7 +38,7 @@ Find out how to build a complete e-commerce platform. I have used CRUD functions
 2. Clone this repository into your local machine using the terminal (mac) or [Gitbash (PC)](https://git-scm.com/download/win "Gitbash (PC)")
 
    ```
-   > git clone https://github.com/divyareddy083/Shoprism_Ecommerce_Website.git
+   > git clone (https://github.com/kavyashankarskkc0625/Shoprism_Ecommerce_Website/tree/main/Shoprism_Ecommerce_Website-main)
    ```
 
 3. backend setup (DO NOT cd to backend) (running on port you decide)
